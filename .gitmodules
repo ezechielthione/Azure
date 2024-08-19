@@ -1,0 +1,3 @@
+[submodule "AZ-104-MicrosoftAzureAdministrator"]
+	path = AZ-104-MicrosoftAzureAdministrator
+	url = https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator
